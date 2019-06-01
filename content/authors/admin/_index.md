@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Transportation and supply chain
 - Human mobility
 - Computational social science
-- Transportation and supply chain
 
 education:
   courses:
