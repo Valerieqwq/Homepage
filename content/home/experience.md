@@ -18,27 +18,52 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Master Student in Transportation Engineering"
+  company = "Central South University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "China"
+  date_start = "2017-09-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Research direction:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Transportation big data
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Visiting student"
+  company = "University of Oxford"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "UK"
+  date_start = "2016-07-15"
+  date_end = "2016-08-12"
+  description = "Summer School, St Cross College"
+
+[[experience]]
+  title = "Visiting student"
+  company = "The University of British Columbia"
+  company_url = ""
+  location = "Canada"
+  date_start = "2015-07-17"
+  date_end = "2015-08-22"
+  description = "Vancouver Summer Program"
+
+[[experience]]
+  title = "B.E. in Transportation Engineering"
+  company = "Central South University"
+  company_url = ""
+  location = "China"
+  date_start = "2013-09-01"
+  date_end = "2017-06-01"
+  description = """
+  Main courses include:
+  
+  * Calculus, probability and statistics, linear algebra, physical science, operations research
+  * Programming
+  * Urban Transportation planning
+  * Fundamentals of transportation
+  * Railway station design
+  * Train schedule planning
+  """
 
 +++
