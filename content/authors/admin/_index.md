@@ -18,7 +18,7 @@ organizations:
   url: "http://www.csu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include transportation and supply chain, human mobility and computational social science
 
 interests:
 - Transportation and supply chain
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'vincentzhengcn@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ZhihaoZheng95
@@ -72,4 +72,4 @@ user_groups:
 
 Hi! I am ZHENG Zhi-hao (郑治豪) and go by Vincent. I am a 2nd-year Master researcher in Transportation Engineering at Central South University, China since 2017. I work with Professor Pu Wang in data-driven modeling and multi-source data fusion for transportation applications. I am super interested in discovering problems from daily life, as I have always told myself to do so. My dream for research is that one day it can have a great impact on our community.
 
-Also, I enjoy sharing my research with people, so please feel free to get in touch!
+I enjoy sharing my research with people, so please feel free to get in touch!
