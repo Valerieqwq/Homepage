@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Zhihao (Vincent) Zheng
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master Student in Transportation Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Central South University
+  url: "http://www.csu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Human mobility
+- Computational social science
+- Transportation and supply chain
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  # - course: PhD in Artificial Intelligence
+  #   institution: Stanford University
+  #   year: 2012
+  # - course: MEng in Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   year: 2009
+  - course: BSc in Transportation Engineering
+    institution: Central South University
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I am ZHENG Zhi-hao (郑治豪) and go by Vincent. I am a 2nd-year Master researcher in Transportation Engineering at Central South University, China since 2017. I work with Professor Pu Wang in data-driven modeling and multi-source data fusion for transportation applications. I am super interested in discovering problems from daily life, as I have always told myself to do so. My dream for research is that one day it can have a great impact on our community.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Also, I enjoy sharing my research with people, so please feel free to get in touch!
