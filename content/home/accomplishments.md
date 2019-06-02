@@ -52,7 +52,7 @@ date_format = "Jan 2006"
 
   **We were invited to present our project at the following conferences:**  <br/>
   Oral presentation at the 2016 Annual Forum of Students’ Innovation and Entrepreneurship of Central South University  <br/>
-  Poster at the 2016 Annual Forum of Students’ Innovation and Entrepreneurship of Hunan Province, P.R. China, 2016 (Only **1%** of projects can be selected by Central South University to this forum)
+  Poster at the 2016 Annual Forum of Students’ Innovation and Entrepreneurship of Hunan Province, P.R. China, 2016 (Only <span style="color:red">some **1%** text</span> of projects can be selected by Central South University to this forum)
 
   **This project received the following awards:**  <br/>
   Third Prize of the 8th Competition of Transport Science and Technology for Students, Central South University  <br/>
