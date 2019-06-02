@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Ministry of Education of the P.R. China"
   organization_url = "http://en.moe.gov.cn/"
-  title = "First Prize of the 11th National Competition of Transport Science and Technology for Students, Ministry of Education of the P.R. China (Team leader)"
+  title = "First Prize of the 11th National Competition of Transport Science and Technology for Students (Team leader)"
   url = "http://www.nactrans.com.cn/"
   certificate_url = ""
   date_start = "2015-09-10"
