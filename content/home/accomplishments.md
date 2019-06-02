@@ -32,6 +32,7 @@ date_format = "Jan 2006"
 
   We were invited to present our project at the following conferences:
   * Oral presentation at the 2017 Annual Forum of Students’ Innovation and Entrepreneurship of Central South University
+  """
 
 
 [[item]]
