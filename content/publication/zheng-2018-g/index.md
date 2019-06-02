@@ -66,9 +66,9 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "The transit coupling strength of traffic analysis zones of Shenzhen at 7:00 on August 8, 2016."
+  caption = "The coupling strength of traffic analysis zones at 7:00 on August 8, 2016."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point = "Smart"
 +++

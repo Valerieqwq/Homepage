@@ -18,7 +18,7 @@ organizations:
   url: "http://www.csu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include transportation and supply chain, human mobility and computational social science
+bio: My research interests include transportation and supply chain, human mobility and computational social science.
 
 interests:
 - Transportation and supply chain
