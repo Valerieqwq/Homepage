@@ -1,26 +1,26 @@
 +++
-title = "Statistical analysis of traffic-related social media data of multiple cities in China"
-date = 2018-07-13T11:00:00  # Schedule page publish date.
+title = "Understanding coupling dynamics of public transportation networks"
+date = 2018-10-14T10:30:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-07-13T11:00:00
-time_end = 2018-07-13T11:20:00
+time_start = 2018-10-14T10:30:00
+time_end = 2018-10-14T10:50:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Zhihao Zheng"]
 
 # Abstract and optional shortened version.
-abstract = "Social media platform has become a new data source for transportation re-search and practices. In this study, we analyzed the temporal-spatial features of traffic-related social media data of six big cities in China. In addition, we studied the occurrence of social media data on different levels of roads in Shenzhen, one of the six cities that we obtained road configuration data. Fi-nally, similarities and differences of various types of traffic-related social media data were analyzed in the studied six big cities."
-abstract_short = "The temporal-spatial features of traffic-related social media data of six big cities in China."
+abstract = "Subway and bus networks work as an integrated multiplex transportation system and play an indispensable role in modern big cities. Even though a variety of works have investigated the coupling dynamics of multiplex transportation networks, empirical data that validates the determinant coupling factors are still lacking. In this paper, we employ smartcard data of 2.4 million subway and bus passengers in Shenzhen, China to study the coupling dynamics of subway and bus networks. Surprisingly, the coupling of subway and bus networks is not notably influenced by the time-varying speed ratio of the two network layers but is jointly determined by the distribution of travel demands and transportation facilities. Our findings highlight the important role of real travel demand data in analyzing the coupling dynamics of multiplex transportation networks. They also suggest that the speed ratio of different network layers, which was regarded as a key factor in determining coupling strength, has a negligible effect on travelers’ route selections, and thus the coupling dynamics of multiplex transportation networks."
+abstract_short = "The coupling dynamics of subway and bus networks."
 
 # Name of event and optional event URL.
-event = "2018 International Conference of Applications and Techniques in Cyber Intelligence"
+event = "2018 Chinese Conference on Complex Network"
 event_url = ""
 
 # Location of event.
-location = "Shanghai, China"
+location = "Chongqing, China"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -31,7 +31,7 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["master-thesis"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -47,7 +47,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://www.dropbox.com/s/8tbnc180dxcigz6/Coupling_Presentation%40CCCN2018.pdf?dl=0"
 url_video = ""
 url_code = ""
 

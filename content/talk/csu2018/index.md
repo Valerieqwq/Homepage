@@ -47,7 +47,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://www.dropbox.com/s/msqioo2nmreb3vt/writing_tutorial.pdf?dl=0"
 url_video = ""
 url_code = ""
 
