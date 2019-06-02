@@ -27,6 +27,7 @@ abstract_short = "In this paper, we employ smartcard data of 2.4 million subway 
 
 # Is this a selected publication? (true/false)
 selected = true
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
