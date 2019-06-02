@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   location = "UK"
   date_start = "2016-07-15"
   date_end = "2016-08-12"
-  description = "Summer School, St Cross College"
+  description = "Summer School at St Cross College"
 
 [[experience]]
   title = "Visiting student"
@@ -55,7 +55,12 @@ date_format = "Jan 2006"
   location = "Canada"
   date_start = "2015-07-17"
   date_end = "2015-08-22"
-  description = "Vancouver Summer Program"
+  description = """
+  Vancouver Summer Program (Two courses):
+  
+  * International Trade and Financial Markets
+  * Dynamics of International Politics
+  """
 
 [[experience]]
   title = "B.E. in Transportation Engineering"
