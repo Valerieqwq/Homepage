@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Master Researcher in Transportation Engineering"
-  company = "Central South University"
+  company = "TransData Lab, Central South University"
   company_url = ""
   location = "China"
   date_start = "2017-09-01"

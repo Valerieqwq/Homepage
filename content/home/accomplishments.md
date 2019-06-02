@@ -5,7 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 16  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+# title = "Accomplish&shy;ments"
+title = "Milestones"
 subtitle = ""
 
 # Date format
@@ -19,33 +20,42 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  organization = "Ministry of Education of the P.R. China"
+  organization_url = "http://en.moe.gov.cn/"
+  title = "First Prize of the 11th National Competition of Transport Science and Technology for Students, Ministry of Education of the P.R. China(**Team leader**)"
+  url = "http://www.nactrans.com.cn/"
+  certificate_url = ""
+  date_start = "2015-09-10"
+  date_end = "2016-05-22"
+  description = """
+  I led a team of five students to develop a traffic sensing and analyzing system using Weibo(a Chinese equivalent of Twitter) data. This system can automatically fetch tweet streams, identify traffic-related contents and extract key conponents of traffic events.
+
+  We were invited to present our project at the following conferences:
+  * Oral presentation at the 2017 Annual Forum of Students’ Innovation and Entrepreneurship of Central South University
+
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  organization = "Ministry of Education of the P.R. China"
+  organization_url = "http://en.moe.gov.cn/"
+  title = "National Innovation and Entrepreneurship Training Program: A traffic signal assistant system for blind people(**PI**)"
+  url = "http://gjcxcy.bjtu.edu.cn/OverYearsProject.aspx?89643F0EFEB651D5F69B125AC8649F1A"
+  certificate_url = ""
+  date_start = "2015-06-30"
+  date_end = "2016-06-30"
+  description = """
+  Sponsored by the Innovation and Entrepreneurship Training Program of M.O.E. of the P.R. China, I led a team of five students to develop a traffic signal system to help blind people cross roads safely with the help of a special wristband. Traditional ways of helping blind people cross the roads are sound signals. However, sound signals may be disturbed by noise in populated areas or the signal from the other direction of a crossroad. We developed a wristband which can transform visual signals of traditional traffic lights into vibration signals to solve such problems.
+
+  This project received two Chinese patents:
+  * **Zheng, Z.**, A smart wristband for blind people based on wireless communication and RFID, Chinese Patent, Grant No.: ZL201520320914.6
+  * **Zheng, Z.**, A traffic signal system for blind people based on a smart wristband, Chinese Patent, Grant No.: ZL201520320915.0
+
+  We were invited to present our project at the following conferences:
+  * Oral presentation at the 2016 Annual Forum of Students’ Innovation and Entrepreneurship of Central South University
+  * Poster at the 2016 Annual Forum of Students’ Innovation and Entrepreneurship of Hunan Province, P.R. China, 2016 (Only **1%** of projects can be selected by Central South University to this forum)
+
+  This project received the following awards:
+  * Third Prize of the 8th Competition of Transport Science and Technology for Students, Central South University
+  * Third Prize of the 3rd Competition of Entrepreneurship and Technology, Central South University
+  """
 
 +++
