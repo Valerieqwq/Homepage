@@ -72,3 +72,11 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+
+Transit coupling strength of traffic analysis zones of Shenzhen:
+
+{{< youtube Xr9cVOMsbiQ >}}
+
+Transit travel demand of Shenzhen
+
+{{< youtube IZ2zKTmROOg >}}
