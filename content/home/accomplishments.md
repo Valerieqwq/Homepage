@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   date_start = "2015-09-10"
   date_end = "2016-05-22"
   description = """
-  I led a team of five students to develop a traffic sensing and analyzing system using Weibo (a Chinese equivalent of Twitter) data. This system can automatically fetch tweet streams, identify traffic-related contents and extract key conponents of traffic events. 301 champions from 104 universities (first-prize teams at each university) attended this competition, and only top <span style="color:red">**2%**</span> of teams can receive the first prize. 
+  I led a team of five students to develop a traffic sensing and analyzing system using Weibo (a Chinese equivalent of Twitter) data. This system can automatically fetch tweet streams, identify traffic-related contents and extract key conponents of traffic events. 301 champions (first-prize teams at each university) from 104 universities attended this national competition, and only top <span style="color:red">**2%**</span> of teams can receive the first prize. 
 
   **We were invited to present our project at the following conferences:**  <br/>
   Oral presentation at the 2017 Annual Forum of Students’ Innovation and Entrepreneurship of Central South University

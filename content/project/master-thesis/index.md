@@ -6,7 +6,7 @@ title = "Master thesis: the coupling characteristics of public transportation ne
 date = 2019-06-02T00:00:00
 
 # Project summary to display on homepage.
-summary = "An example of using the in-built project page."
+summary = "My master thesis project"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -37,7 +37,7 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Multiplex public transportation networks in Shenzhen &copy;Shenzhen Metro"
+  caption = "Multiplex public transportation networks in Shenzhen. &copy;Shenzhen Metro"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
