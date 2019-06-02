@@ -1,6 +1,6 @@
 ---
 title: "Framework for fusing traffic information from social and physical transportation data"
-date: 2018-08-01
+date: 2018-08-02
 publishDate: 2019-06-01T14:08:45.891156Z
 authors: ["**Zhihao Zheng**", "Chengcheng Wang", "Pu Wang", "Yusha Xiong", "Fan Zhang", "Yisheng Lv"]
 publication_types: ["2"]

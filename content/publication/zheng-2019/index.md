@@ -1,6 +1,6 @@
 ---
 title: "Statistical analysis of traffic-related social media data of multiple cities in China"
-date: 2019-01-01
+date: 2018-11-05
 publishDate: 2019-06-01T14:08:45.884174Z
 authors: ["**Zhihao Zheng**", "Pu Wang"]
 publication_types: ["1"]

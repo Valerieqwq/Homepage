@@ -1,6 +1,6 @@
 ---
 title: "Understanding coupling dynamics of public transportation networks"
-date: 2018-01-01
+date: 2018-07-11
 publishDate: 2019-06-01T14:08:45.869215Z
 authors: ["**Zhihao Zheng**", "Zhiren Huang", "Fan Zhang", "Pu Wang"]
 publication_types: ["2"]

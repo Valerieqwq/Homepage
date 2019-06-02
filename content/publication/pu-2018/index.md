@@ -1,6 +1,6 @@
 ---
 title: "Traffic anomaly detection method based on travel time of path"
-date: 2018-01-01
+date: 2018-11-30
 publishDate: 2019-06-01T14:08:45.876196Z
 authors: ["Pu Wang", "Yusha Xiong", "Chengcheng Wang", "**Zhihao Zheng**", "Hengyu Lu"]
 publication_types: ["2"]

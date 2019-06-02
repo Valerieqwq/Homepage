@@ -1,6 +1,6 @@
 ---
 title: "A traffic sensing and analyzing system using social media data"
-date: 2018-01-01
+date: 2017-12-11
 publishDate: 2019-06-01T14:08:45.898137Z
 authors: ["**Zhihao Zheng**", "Wenbing Wu", "Xin Chen", "Rongxin Hu", "Xin Liu", "Pu Wang"]
 publication_types: ["2"]
