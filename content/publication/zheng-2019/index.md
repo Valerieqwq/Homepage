@@ -10,5 +10,6 @@ publication: "*International Conference on Applications and Techniques in Cyber 
 tags: ["Social media data", "Social transportation", "Transportation data analysis", "social transportation", "transportation data analysis"]
 url_pdf: "http://link.springer.com/10.1007/978-3-319-98776-7"
 doi: "10.1007/978-3-319-98776-7"
+projects: ["social-transportation"]
 ---
 

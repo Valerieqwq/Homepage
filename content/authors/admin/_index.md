@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am Zhihao Zheng (郑治豪) and go by Vincent. I am a Master researcher in Transportation at Central South University, China since 2017. I work with Professor Pu Wang in transportation big data analysis. I was experienced with leading research teams during my undergraduate years and my teams had received multiple nationwide accomplishments. I currently serve as a reviewer for the journal **_IEEE Transactions on Intelligent Transportation Systems_**.
+Welcome to my page! I am Zhihao Zheng (郑治豪) and go by Vincent. I am a Master researcher in Transportation at Central South University, China since 2017. I work with Professor Pu Wang in transportation big data analysis. I was experienced with leading research teams during my undergraduate years and my teams had received multiple nationwide accomplishments. I currently serve as a reviewer for the journal **_IEEE Transactions on Intelligent Transportation Systems_**.
 
 I have always told myself to solve problems discovered from life experience, which is also my research motto. I hope one day my research can contribute to the well-being of our community. I also enjoy sharing my research with people, so please feel free to get in touch!

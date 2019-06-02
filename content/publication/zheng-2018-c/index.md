@@ -9,5 +9,6 @@ featured: false
 publication: "*PLoS ONE*"
 url_pdf: "http://dx.plos.org/10.1371/journal.pone.0201531"
 doi: "10.1371/journal.pone.0201531"
+projects: ["social-transportation"]
 ---
 
