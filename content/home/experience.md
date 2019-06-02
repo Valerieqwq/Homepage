@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Master Student in Transportation Engineering"
+  title = "Master Researcher in Transportation Engineering"
   company = "Central South University"
   company_url = ""
   location = "China"
@@ -29,6 +29,15 @@ date_format = "Jan 2006"
   
   * Transportation big data
   """
+
+[[experience]]
+  title = "Research Assistant"
+  company = "TransData Lab, Central South University"
+  company_url = ""
+  location = "China"
+  date_start = "2016-09-10"
+  date_end = "2017-08-31"
+  description = "Project: Social Transportation"
 
 [[experience]]
   title = "Visiting student"
@@ -58,12 +67,10 @@ date_format = "Jan 2006"
   description = """
   Main courses include:
   
-  * Calculus, probability and statistics, linear algebra, physical science, operations research
+  * Calculus, Probability and statistics, Linear algebra, Physical science, Operations research
   * Programming
-  * Urban Transportation planning
-  * Fundamentals of transportation
-  * Railway station design
-  * Train schedule planning
+  * Urban transportation planning, Fundamentals of transportation
+  * Railway station design, Train schedule planning
   """
 
 +++

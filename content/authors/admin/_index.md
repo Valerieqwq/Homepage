@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Zhihao (Vincent) Zheng
+name: Zhihao Zheng
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master Student in Transportation Engineering
+role: Master Researcher in Transportation Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am ZHENG Zhi-hao (郑治豪) and go by Vincent. I am a 2nd-year Master researcher in Transportation Engineering at Central South University, China since 2017. I work with Professor Pu Wang in data-driven modeling and multi-source data fusion for transportation applications. I am super interested in discovering problems from daily life, as I have always told myself to do so. My dream for research is that one day it can have a great impact on our community.
+Hi! I am Zhihao Zheng (郑治豪) and go by Vincent. I am a 2nd-year Master researcher in Transportation Engineering at Central South University, China since 2017. I work with Professor Pu Wang in data-driven modeling and multi-source data fusion for transportation applications. I am super interested in discovering problems from daily life, as I have always told myself to do so. My dream for research is that one day it can have a great impact on our community.
 
 I enjoy sharing my research with people, so please feel free to get in touch!
