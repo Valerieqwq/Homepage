@@ -30,8 +30,8 @@ date_format = "Jan 2006"
   description = """
   I led a team of five students to develop a traffic sensing and analyzing system using Weibo (a Chinese equivalent of Twitter) data. This system can automatically fetch tweet streams, identify traffic-related contents and extract key conponents of traffic events.
 
-  We were invited to present our project at the following conferences:  <br/>
-    Oral presentation at the 2017 Annual Forum of Students’ Innovation and Entrepreneurship of Central South University
+  **We were invited to present our project at the following conferences:**  <br/>
+  Oral presentation at the 2017 Annual Forum of Students’ Innovation and Entrepreneurship of Central South University
   """
 
 
@@ -46,17 +46,17 @@ date_format = "Jan 2006"
   description = """
   Sponsored by the Innovation and Entrepreneurship Training Program of M.O.E. of the P.R. China, I led a team of five students to develop a traffic signal system to help blind people cross roads safely with the help of a special wristband. Traditional ways of helping blind people cross the roads are sound signals. However, sound signals may be disturbed by noise in populated areas or the signal from the other direction of a crossroad. We developed a wristband which can transform visual signals of traditional traffic lights into vibration signals to solve such problems.
 
-  This project received two Chinese patents:  <br/>
-    **Zheng, Z.**, A smart wristband for blind people based on wireless communication and RFID, Chinese Patent, Grant No.: ZL201520320914.6  <br/>
-    **Zheng, Z.**, A traffic signal system for blind people based on a smart wristband, Chinese Patent, Grant No.: ZL201520320915.0
+  **This project received two Chinese patents:**  <br/>
+  **Zheng, Z.**, A smart wristband for blind people based on wireless communication and RFID, Chinese Patent, Grant No.: ZL201520320914.6  <br/>
+  **Zheng, Z.**, A traffic signal system for blind people based on a smart wristband, Chinese Patent, Grant No.: ZL201520320915.0
 
-  We were invited to present our project at the following conferences:  <br/>
-    Oral presentation at the 2016 Annual Forum of Students’ Innovation and Entrepreneurship of Central South University  <br/>
-    Poster at the 2016 Annual Forum of Students’ Innovation and Entrepreneurship of Hunan Province, P.R. China, 2016 (Only **1%** of projects can be selected by Central South University to this forum)
+  **We were invited to present our project at the following conferences:**  <br/>
+  Oral presentation at the 2016 Annual Forum of Students’ Innovation and Entrepreneurship of Central South University  <br/>
+  Poster at the 2016 Annual Forum of Students’ Innovation and Entrepreneurship of Hunan Province, P.R. China, 2016 (Only **1%** of projects can be selected by Central South University to this forum)
 
-  This project received the following awards:  <br/>
-    Third Prize of the 8th Competition of Transport Science and Technology for Students, Central South University  <br/>
-    Third Prize of the 3rd Competition of Entrepreneurship and Technology, Central South University
+  **This project received the following awards:**  <br/>
+  Third Prize of the 8th Competition of Transport Science and Technology for Students, Central South University  <br/>
+  Third Prize of the 3rd Competition of Entrepreneurship and Technology, Central South University
   """
 
 +++
