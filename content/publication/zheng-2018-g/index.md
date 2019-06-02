@@ -43,17 +43,17 @@ tags = ["Coupling", "Data analysis", "Multiplex networks", "Spatial networks"]
 # Links (optional).
 url_pdf = "https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-018-0148-6"
 url_preprint = ""
-url_code = "#"
-url_dataset = "#"
-url_project = "#"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.1140/epjds/s13688-018-0148-6"
