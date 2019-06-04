@@ -32,7 +32,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Chinese Association of Automation"
   organization_url = "http://www.caa.org.cn/"
-  title = "First publication of my research career!"
+  title = "My First Publication!"
   url = "http://www.aas.net.cn/CN/column/column105.shtml"
   certificate_url = ""
   date_start = "2017-12-11"
