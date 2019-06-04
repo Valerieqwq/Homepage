@@ -22,6 +22,26 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Ministry of Education of the P.R. China"
   organization_url = "http://en.moe.gov.cn/"
+  title = "National Scholarship for Graduate Student with Highest Honor"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-09-25"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Chinese Association of Automation"
+  organization_url = "http://www.caa.org.cn/"
+  title = "First publication of my research career!"
+  url = "http://www.aas.net.cn/CN/column/column105.shtml"
+  certificate_url = ""
+  date_start = "2017-12-11"
+  date_end = ""
+  description = "My study 'A Traffic Sensing and Analyzing System Using Social Media Data' was published in the journal *ACTA AUTOMATICA SINICA* on Dec 11, 2017, opening the career of my research. *ACTA AUTOMATICA SINICA* is a flag journal in the field of control theory in China and it is ranked A+ (top 5%) in all Chinese journals."
+
+[[item]]
+  organization = "Ministry of Education of the P.R. China"
+  organization_url = "http://en.moe.gov.cn/"
   title = "First Prize of the 11th National Competition of Transport Science and Technology for Students (Team leader)"
   url = "http://www.nactrans.com.cn/"
   certificate_url = ""
@@ -53,10 +73,6 @@ date_format = "Jan 2006"
   **We were invited to present our project at the following conferences:**  <br/>
   Oral presentation at the 2016 Annual Forum of Students’ Innovation and Entrepreneurship of Central South University  <br/>
   Poster at the 2016 Annual Forum of Students’ Innovation and Entrepreneurship of Hunan Province, P.R. China, 2016 (Only <span style="color:red">**1%**</span> of 1139 projects were recommended by Central South University to this forum)
-
-  **This project received the following awards:**  <br/>
-  Third Prize of the 8th Competition of Transport Science and Technology for Students, Central South University  <br/>
-  Third Prize of the 3rd Competition of Entrepreneurship and Technology, Central South University
   """
 
 +++
