@@ -6,11 +6,11 @@ title = "Social transportation"
 date = 2019-06-02T00:00:00
 
 # Project summary to display on homepage.
-summary = "My undergraduate project"
+summary = "This project aims to explore the potential of social media in detecting emergent traffic events. It also works on the problem of fusing lunguistic data from social media and numerical data from physical devices (GPS loggers, loop detecters, etc.)"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["social media", "machine learning", "text classification", "data visualization"]
+tags = ["social media", "machine learning", "natural language processing", "data visualization"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

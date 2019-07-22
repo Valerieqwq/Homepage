@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Master thesis: the coupling characteristics of public transportation networks"
+title = "Coupling Dynamics of Multiplex Public Transportation Networks (Human Mobility)"
 
 # Date this page was created.
 date = 2019-06-02T00:00:00
 
 # Project summary to display on homepage.
-summary = "My master thesis project"
+summary = "This is my Master thesis project. This project aims to study the dynamics of multimodal mobility on urban public transportation networks to see how well do different kinds of transportation systems work together. It also works on discovering the determining factors that drive travelers to use multimodal transportation."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
