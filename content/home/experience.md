@@ -18,16 +18,18 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Master Researcher in Transportation Engineering"
+  title = "Master Researcher"
   company = "TransData Lab, Central South University"
   company_url = ""
   location = "China"
   date_start = "2017-09-01"
   date_end = ""
   description = """
-  Research topic:
+  Research topics:
   
-  * Transportation big data
+  * Social Transportation
+  * Multimodal Transportation Network and Human Mobility 
+  * Traffic Prediction 
   """
 
 [[experience]]
@@ -37,7 +39,7 @@ date_format = "Jan 2006"
   location = "China"
   date_start = "2016-09-10"
   date_end = "2017-08-31"
-  description = "Project: Social Transportation"
+  description = "Project: Social Media Data Mining"
 
 [[experience]]
   title = "Visiting student"
@@ -46,7 +48,7 @@ date_format = "Jan 2006"
   location = "UK"
   date_start = "2016-07-15"
   date_end = "2016-08-12"
-  description = "Summer School at St Cross College"
+  description = ""
 
 [[experience]]
   title = "Visiting student"
@@ -55,15 +57,10 @@ date_format = "Jan 2006"
   location = "Canada"
   date_start = "2015-07-17"
   date_end = "2015-08-22"
-  description = """
-  Vancouver Summer Program (Two courses):
-  
-  * International Trade and Financial Markets
-  * Dynamics of International Politics
-  """
+  description = ""
 
 [[experience]]
-  title = "B.E. in Transportation Engineering"
+  title = "BSc in Transportation (Management Science)"
   company = "Central South University"
   company_url = ""
   location = "China"
@@ -72,10 +69,10 @@ date_format = "Jan 2006"
   description = """
   Main courses include:
   
-  * Calculus, Probability and statistics, Linear algebra, Physical science, Operations research
-  * Programming
-  * Urban transportation planning, Fundamentals of transportation
-  * Railway station design, Train schedule planning
+  * Calculus, Probability and Statistics, Linear Algebra, Physical Science
+  * Programming, Database
+  * Urban Transportation Planning, Fundamentals of Transportation
+  * Logistics, Management Science, Operations research
   """
 
 +++
