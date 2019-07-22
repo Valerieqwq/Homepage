@@ -11,6 +11,7 @@ tags: ["Social transportation", "data visualization", "machine learning", "named
 url_pdf: "http://html.rhhz.net/ZDHXBZWB/html/2018-4-656.htm"
 doi: "10.16383/j.aas.2017.c160537"
 projects: ["social-transportation"]
+url_code: "https://github.com/rottenivy/A-Traffic-Sensing-and-Analyzing-System-Using-Social-Media-Data"
 ---
 
 {{< youtube ddWAd1rGGQc >}}

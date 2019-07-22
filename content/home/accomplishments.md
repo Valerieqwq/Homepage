@@ -32,7 +32,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Chinese Association of Automation"
   organization_url = "http://www.caa.org.cn/"
-  title = "My First Publication!"
+  title = "First Publication!"
   url = "http://www.aas.net.cn/CN/column/column105.shtml"
   certificate_url = ""
   date_start = "2017-12-11"
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Ministry of Education of the P.R. China"
   organization_url = "http://en.moe.gov.cn/"
-  title = "First Prize of the 11th National Competition of Transport Science and Technology for Students (Team leader)"
+  title = "First Prize of the 11th National Competition of Transport Science and Technology (Group leader)"
   url = "http://www.nactrans.com.cn/"
   certificate_url = ""
   date_start = "2015-09-10"
@@ -67,8 +67,8 @@ date_format = "Jan 2006"
   Sponsored by the Innovation and Entrepreneurship Training Program of M.O.E. of the P.R. China (20,000 RMB), I led a team of five students to develop a traffic signal system to help blind people cross roads safely with the help of a special wristband. Traditional ways of helping blind people cross the roads are sound signals. However, sound signals may be disturbed by noise in populated areas or the signal from the other direction of a crossroad. We developed a wristband which can transform visual signals of traditional traffic lights into vibration signals to solve such problems.
 
   **This project received two Chinese patents:**  <br/>
-  **Zheng, Z.**, A smart wristband for blind people based on wireless communication and RFID, Chinese Patent, Grant No.: ZL201520320914.6  <br/>
-  **Zheng, Z.**, A traffic signal system for blind people based on a smart wristband, Chinese Patent, Grant No.: ZL201520320915.0
+  **Zheng, Z.**, A Smart Wristband for Blind Pedestrians Based on Wireless Communication and RFID, Chinese Patent, Grant No.: ZL201520320914.6  <br/>
+  **Zheng, Z.**, A Traffic Signal System for Blind Pedestrians Based on Smart Wristbands, Chinese Patent, Grant No.: ZL201520320915.0
 
   **We were invited to present our project at the following conferences:**  <br/>
   Oral presentation at the 2016 Annual Forum of Students’ Innovation and Entrepreneurship of Central South University  <br/>

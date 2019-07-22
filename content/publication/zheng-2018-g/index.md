@@ -44,7 +44,7 @@ tags = ["Coupling", "Data analysis", "Multiplex networks", "Spatial networks"]
 # Links (optional).
 url_pdf = "https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-018-0148-6"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/rottenivy/Bus-Trip-Destination-Estimation"
 url_dataset = ""
 url_project = ""
 url_slides = ""
