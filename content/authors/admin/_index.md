@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master Researcher in Transportation Engineering
+role: Master Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -18,22 +18,23 @@ organizations:
   url: "http://www.csu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include transportation and supply chain, human mobility and computational social science.
+bio: Zhihao Zheng, MSc in Transportation. His research interests include transportation and supply chain, human mobility and computational social science.
 
 interests:
-- Transportation and supply chain
-- Human mobility
-- Computational social science
+- Transportation
+- Urban Analytics
+- Human Mobility
+- Social Media
 
 education:
   courses:
   # - course: PhD in Artificial Intelligence
   #   institution: Stanford University
   #   year: 2012
-  # - course: MEng in Artificial Intelligence
-  #   institution: Massachusetts Institute of Technology
-  #   year: 2009
-  - course: B.E. in Transportation Engineering
+  - course: MSc in Transportation (Data Science)
+    institution: Central South University
+    year: Expected 2020
+  - course: BSc in Transportation (Management Science)
     institution: Central South University
     year: 2017
 
@@ -70,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my page! I am Zhihao Zheng (郑治豪) and go by Vincent. I am a Master researcher in Transportation at Central South University, China since 2017. I work with Professor Pu Wang in transportation big data analysis. I was experienced with leading research teams during my undergraduate years and my teams had received multiple nationwide accomplishments. I currently serve as a reviewer for the journal **_IEEE Transactions on Intelligent Transportation Systems_**.
+I am a Master researcher in TransData Lab at Central South University, China since 2017, supervised by Professor [Pu Wang](https://scholar.google.com/citations?user=AyNpEX4AAAAJ&hl=en). My research focuses on urban data analytics. Before joining TransData Lab, I completed my BSc in Transportation with the highest honor at Central South University. During my BSc, I led student teams working on several research projects and received multiple nationwide accomplishments. I currently serve as a reviewer for IEEE Intelligent Transportation Systems Society Conference and  IEEE Transactions on Intelligent Transportation Systems.
 
-I have always told myself to solve problems discovered from life experience, which is also my research motto. I hope one day my research can contribute to the well-being of our community. I also enjoy sharing my research with people, so please feel free to get in touch!
+I have always told myself to solve problems discovered from life experience, which I think is the real value of scientific research. I hope one day my research will contribute to the well-being of our community. I also enjoy sharing discussing my research with fellow researchers, so please feel free to get in touch!
