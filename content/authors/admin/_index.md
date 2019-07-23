@@ -18,7 +18,7 @@ organizations:
   url: "http://www.csu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Zhihao Zheng, MSc in Transportation. His research interests include transportation and supply chain, human mobility and computational social science.
+bio: Zhihao Zheng, MSc in Transportation. His research interests include transportation, urban analytics, human mobility and social media.
 
 interests:
 - Transportation
