@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-12-11"
   date_end = ""
-  description = "My study 'A Traffic Sensing and Analyzing System Using Social Media Data' was published in the journal *ACTA AUTOMATICA SINICA* on Dec 11, 2017, opening the career of my research. *ACTA AUTOMATICA SINICA* is a flag journal in the field of control theory in China and it is ranked A+ (top 5%) in all Chinese journals."
+  description = "My paper 'A Traffic Sensing and Analyzing System Using Social Media Data' was published in the journal *ACTA AUTOMATICA SINICA* on Dec 11, 2017. *ACTA AUTOMATICA SINICA* is a top journal in control theory in China"
 
 [[item]]
   organization = "Ministry of Education of the P.R. China"

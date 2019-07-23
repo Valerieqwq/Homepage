@@ -1,5 +1,5 @@
 +++
-title = "Statistical analysis of traffic-related social media data of multiple cities in China"
+title = "Statistical Analysis of Traffic-Related Social Media Data in China"
 date = 2018-07-13T11:00:00  # Schedule page publish date.
 draft = false
 
@@ -12,7 +12,7 @@ time_end = 2018-07-13T11:20:00
 authors = ["Zhihao Zheng"]
 
 # Abstract and optional shortened version.
-abstract = "Social media platform has become a new data source for transportation re-search and practices. In this study, we analyzed the temporal-spatial features of traffic-related social media data of six big cities in China. In addition, we studied the occurrence of social media data on different levels of roads in Shenzhen, one of the six cities that we obtained road configuration data. Fi-nally, similarities and differences of various types of traffic-related social media data were analyzed in the studied six big cities."
+abstract = ""
 abstract_short = "The temporal-spatial features of traffic-related social media data of six big cities in China."
 
 # Name of event and optional event URL.

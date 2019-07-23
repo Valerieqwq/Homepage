@@ -1,5 +1,5 @@
 +++
-title = "A Traffic Signal System and A Smart Wristband for the Blind"
+title = "A Traffic Signal System and Smart Wristbands for Blind Pedestrians"
 date = 2016-05-22T10:00:00  # Schedule page publish date.
 draft = false
 

@@ -12,7 +12,7 @@ time_end = 2018-10-31T17:00:00
 authors = ["Zhihao Zheng"]
 
 # Abstract and optional shortened version.
-abstract = "In this tutorial, I discussed: 1.How to conduct research efficiently and effectively. 2.How to write an academic paper. 3.How to reply to reviewers’ comments."
+abstract = "I host a seminar to teach graduate students: 1.How to conduct research with your supervisor. 2.How to write an academic paper. 3.How to reply to reviewers’ comments."
 abstract_short = ""
 
 # Name of event and optional event URL.
