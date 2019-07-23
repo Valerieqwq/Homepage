@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   description = "Project: Social Media Data Mining"
 
 [[experience]]
-  title = "Visiting student"
+  title = "Visiting Student"
   company = "University of Oxford"
   company_url = ""
   location = "UK"
@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "Visiting student"
+  title = "Visiting Student"
   company = "The University of British Columbia"
   company_url = ""
   location = "Canada"
