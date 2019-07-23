@@ -12,7 +12,7 @@ time_end = 2018-10-14T10:50:00
 authors = ["Zhihao Zheng"]
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "We employed smartcard data of 2.4 million subway and bus passengers in Shenzhen, China to study the coupling dynamics of subway and bus networks. Surprisingly, the coupling of subway and bus networks is not notably influenced by the time-varying speed ratio of the two network layers but is jointly determined by the distribution of travel demands and transportation facilities. Our findings highlight the important role of real travel demand data in analyzing the coupling dynamics of multiplex transportation networks. They also suggest that the speed ratio of different network layers, which was regarded as a key factor in determining coupling strength, has a negligible effect on travelers’ route selections, and thus the coupling dynamics of multiplex transportation networks."
 
 # Name of event and optional event URL.
 event = "2018 Chinese Conference on Complex Network"

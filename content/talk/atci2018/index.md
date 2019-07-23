@@ -12,7 +12,7 @@ time_end = 2018-07-13T11:20:00
 authors = ["Zhihao Zheng"]
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "We analyzed the temporal-spatial features of traffic-related social media data of six big cities in China. In addition, we studied the occurrence of social media data on different levels of roads in Shenzhen, one of the six cities that we obtained road configuration data. Finally, similarities and differences of various types of traffic-related social media data were analyzed in the studied six big cities."
 abstract_short = "The temporal-spatial features of traffic-related social media data of six big cities in China."
 
 # Name of event and optional event URL.
