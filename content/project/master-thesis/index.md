@@ -44,4 +44,4 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-
+This is my Master thesis project. This project aims to study the dynamics of multimodal mobility on urban public transportation networks to see how well do different kinds of transportation systems work together. It also works on discovering the determining factors that drive travelers to use multimodal transportation.
